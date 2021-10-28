@@ -55,13 +55,13 @@ Foi disponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em E
 
 #### Métricas solicitadas 📉:
 
-✔  Total de Entregas; 
-✔  Entregas no Prazo;
-✔  Entregas Atrasadas;
-✔  Nível médio de estoque por ano;
-✔  Cálculo do S2D - Ship to door - expedição até a entrega, medido em dias;
-✔  Índice de ocorrências por estado;
-✔  Frota total, número de veículos em uso e disponíveis.
+✔  Total de Entregas; <br>
+✔  Entregas no Prazo;<br>
+✔  Entregas Atrasadas;<br>
+✔  Nível médio de estoque por ano;<br>
+✔  Cálculo do S2D - Ship to door - expedição até a entrega, medido em dias;<br>
+✔  Índice de ocorrências por estado;<br>
+✔  Frota total, número de veículos em uso e disponíveis.<br>
 
 #### Resultado ⚠️:
 
