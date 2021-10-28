@@ -72,7 +72,7 @@ Foi disponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em E
 
 #### Conteúdos importantes
 
-**<a href="https://trello.com/b/2tx6vPVu/challenge-bi-semana-1">Trello da Semana 01</a>** 
+**<a href="https://trello.com/b/2tx6vPVu/challenge-bi-semana-1">Trello da Semana 01</a>** <br>
 **<a href="https://cursos.alura.com.br/challenge-semana-1-davidneves-1629155849469-p205209">Plano de Estudos para a Semana 01</a>** 
 
 
@@ -111,7 +111,7 @@ A nossa missão é apoiar a gerência em suas **tomadas de decisão**, e elucida
 
 #### Conteúdos importantes
 
-**<a href="https://trello.com/b/j0pq60Fd">Trello da Semana 02</a>** 
+**<a href="https://trello.com/b/j0pq60Fd">Trello da Semana 02</a>** <br>
 **<a href="https://cursos.alura.com.br/challenge-semana-2-davidneves-1629156820732-p205226">Plano de Estudos para a Semana 02</a>** 
 
 
@@ -157,7 +157,7 @@ O nosso cliente disponibilizou 3 bases de dados sobre o setor financeiro, no MyS
 
 #### Conteúdos importantes
 
-**<a href="https://trello.com/b/GrxtSIIr/challenge-bi-semana-3-e-4">Trello da Semana 03</a>** 
+**<a href="https://trello.com/b/GrxtSIIr/challenge-bi-semana-3-e-4">Trello da Semana 03</a>** <br>
 **<a href="https://cursos.alura.com.br/challenge-semana-3-davidneves-1629157103312-p205228">Plano de Estudos para a Semana 03</a>** 
 
 
