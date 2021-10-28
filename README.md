@@ -80,9 +80,8 @@ Foi disponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em E
 
 #### Objetivo :  
 
-Agora a Alura Shop **investiu** em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda **surtiu efeito**.
-<br> 
-A nossa missão é apoiar a gerência em suas **tomadas de decisão**, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos **indicadores relevantes** para a validação estratégica do negócio.
+Agora a Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito.<br> 
+A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio.
 
 #### Base de Dados :
 
@@ -120,7 +119,7 @@ A nossa missão é apoiar a gerência em suas **tomadas de decisão**, e elucida
 #### Objetivo : 
 
 Desenvolveremos um dashboard tático da área financeira de uma empresa, no qual vamos criar duas páginas, sendo uma delas exibindo um overview de toda a área financeira e a outra página realizando uma análise de cenários.
-
+<br>
 Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
 1 - Overview financeiro.
 2 - Análise de cenário.
@@ -129,23 +128,23 @@ Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
 
 O nosso cliente disponibilizou 3 bases de dados sobre o setor financeiro, no MySQL, sendo essas bases:
 
-✔  TABELA Notas Fiscais
-✔  TABELA Produtos
-✔  TABELA Vendedores
-✔  TABELA Pedidos
+✔  TABELA Notas Fiscais<br>
+✔  TABELA Produtos<br>
+✔  TABELA Vendedores<br>
+✔  TABELA Pedidos<br>
 
 
 #### Métricas solicitadas :
 
-✔  Calcular a receita.
-✔  Calcular o Lucro.
-✔  Exibir os custos.
-✔  Calcular e exibir a despesa.
-✔  Calcular o total de valor convertido em compras.
-✔  Elementos para ajudar na elaboração do dashboard.
-✔  Analisar e exibir mensalmente as métricas.
-✔  Escolher o ano a ser analisado
-✔  Análise de cenário
+✔  Calcular a receita.<br>
+✔  Calcular o Lucro.<br>
+✔  Exibir os custos.<br>
+✔  Calcular e exibir a despesa.<br>
+✔  Calcular o total de valor convertido em compras.<br>
+✔  Elementos para ajudar na elaboração do dashboard.<br>
+✔  Analisar e exibir mensalmente as métricas.<br>
+✔  Escolher o ano a ser analisado.<br>
+✔  Análise de cenário.<br>
 
 #### Resultado :
 
