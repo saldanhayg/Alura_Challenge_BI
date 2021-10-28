@@ -3,31 +3,28 @@
 ## Edição #3: Desafios BI
 
 O **<a href="https://www.alura.com.br/challenges/bi">Alura Challenges BI</a>** consiste na resolução de problemas reais durante 4 semanas e colocar em prática a utilização de conceitos e técnicas de Business Intelligence para desenvolver um painel para cada uma das empresas.
-
+<br>
 Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas decisões 
 de decisão.
-
-A primeira empresa, Alura Log , analisa a análise de dados sobre a logística de entregas do seu negócio.
-
-A segunda empresa, Alura Shop , precisa de um painel para monitorar uma campanha de marketing durante um mês.
-
-A terceira empresa, Alura Store , precisa entender como anda a sua área financeira , pensando em hipóteses .
-
+<br>
+✔  Primeira empresa, Alura Log , analisa a análise de dados sobre a logística de entregas do seu negócio. <br>
+✔  Segunda empresa, Alura Shop , precisa de um painel para monitorar uma campanha de marketing durante um mês. <br>
+✔  Terceira empresa, Alura Store , precisa entender como anda a sua área financeira , pensando em hipóteses . <br>
 
 ## ESTRUTURA DO APRENDIZADO: 
 
 A Alura se baseou no Challenge Based Learning, que a Apple ajudou a criar, definido em 3 pilares:
 
 ### 1. Engajamento
-  **Trello:**   A cada semana foi disponibilizado um quadro com os pedidos para cada dashboard. 
+  **Trello:**   A cada semana foi disponibilizado um quadro com os pedidos para cada dashboard. <br>
   **Discord:**  Para tirar dúvidas sobre possibilidades de implementações.
 
 ### 2. Investigação
-   Através: **Cursos, formações, artigos, podcasts** todos disponíveis na plataforma da Alura. 
+   Através: **Cursos, formações, artigos, podcasts** todos disponíveis na plataforma da Alura. <br>
    Além disso, mas vale reforçar que você pode e deve escolher outros caminhos e soluções na hora de implementar
 
 ### 3. Ação
-   **Github e Linkedin:** Compartilhar o projeto nas redes sociais com o objetivo de criar um portfólio, usando #AluraChallenges!
+   **Github e Linkedin:** Compartilhar o projeto nas redes sociais com o objetivo de criar um portfólio, usando #AluraChallenges 
 
 
 ## FERRAMENTAS UTILIZADAS :
@@ -69,7 +66,7 @@ Foi disponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em E
 #### Resultado ⚠️:
 
 <h1>
-   <img src=" " border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Alura_Challenge_BI/main/AluraLog.JPG" border="0">
 </h1>
 <br>
 
